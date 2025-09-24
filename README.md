@@ -28,9 +28,18 @@ The project also includes **error handling** (like division by zero) and a clean
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Download/Clone this repository.  
 2. Open the project folder in your system.  
-3. Double click on **index.html** or run it in a browser.  
+3. Double click on **index.html** or run it in a browser.
+
+## Live Link
+ https://code-withharsh.github.io/Basic-Calculator/
+
+
+
+
+
+
 4. Start calculating! 
 
